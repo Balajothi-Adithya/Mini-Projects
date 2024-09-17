@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Thread2
+comment1.params=n
+comment1.target=Thread2(int)
+comment2.params=a
+comment2.target=Thread2(Availability)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=int\ getValue()
+numComments=5
