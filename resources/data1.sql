@@ -1,1 +1,0 @@
-INSERT INTO product(name,desc, brand, price, category, release_date, available, quantity) VALUES('Galaxy s23', 'Smart Phone', 'Samsung', 32000.00,'Mobile', '2024-03-1', true, 50);
